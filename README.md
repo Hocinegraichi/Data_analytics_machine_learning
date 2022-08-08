@@ -3,7 +3,7 @@
 TASK 0 
 Download the COVID-19 dataset from 
 https://www.kaggle.com/datasets/imdevskp/corona-virusreport
-or Moodle folder and import it into pandas dataframe.
+
 1. Find countries with more than 100 deaths
 2. Find top-5 countries of new cases
 3. Extract rows whose WHO region is Europe
